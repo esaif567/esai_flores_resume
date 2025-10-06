@@ -3,4 +3,6 @@ docs/
 img/
 part1/
 part2/
-README.md
+README.mdpublic/
+resources/
+.hugo_build.lock
